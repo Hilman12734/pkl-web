@@ -1,0 +1,18 @@
+#form-new {
+    padding: 30px;
+}
+#text-contact-1 {
+    margin: 10px;
+}
+#all{
+    margin: 20px;
+    padding: 50px;
+}
+#text-contact-2{
+    padding: 10px;
+}
+#why{
+    
+  animation: up-down 1s ease-in-out infinite alternate-reverse both;
+}
+
